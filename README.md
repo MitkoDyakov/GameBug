@@ -10,6 +10,10 @@ Each pad features:
 * All buttons are debounced using a Texas Instruments schmitt trigger IC. 
 * 2 x selector switches from Alpine 
 
-It has 2.54 pitch headers for connecting to a breadboard. It is powered by 5V or 3.3V. 
-Suitable for creating your own portable games or HID Joystic devices. Can be used to 
-control CNC machines or as a remote controller for DIY RC projects. 
+It has 2.54 pitch headers for connecting to a breadboard. It is powered by 5V or 3.3V.
+
+Suitable for creating your own portable games or HID Joystic devices. 
+
+Can be used to control CNC machines or as a remote controller for DIY RC projects. 
+
+Great for teaching childer about electronics by bilding their own games. 
